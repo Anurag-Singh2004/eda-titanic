@@ -1,0 +1,20 @@
+#[200~ Data files
+data/raw/
+data/processed/
+
+# Jupyter notebook checkpoints (auto-created, useless to track)
+.ipynb_checkpoints/
+
+# Virtual environment (huge folder, no point pushing it)
+venv/
+
+# Python cache files (auto-generated, not your code)
+__pycache__/
+*.pyc
+
+# VS Code settings (personal to your machine)
+.vscode/
+
+# OS garbage files
+.DS_Store
+*.log
